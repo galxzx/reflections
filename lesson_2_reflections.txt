@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Initializing the repository creates a .git folder to store the meta data of changes to your files. 
 	You need it to start creating a record of commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a temporary organizational structure of files.
+	It allows you to keep track of all the files you've changed

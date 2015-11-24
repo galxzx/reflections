@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initializing the repository creates a .git folder to store the meta data of changes to your files. 
+	You need it to start creating a record of commits.

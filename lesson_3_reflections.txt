@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  A remote respository allows other people to view and work on your project without access to your local machine.
+  You may also want to work on a project from different computers, etc.
+  
